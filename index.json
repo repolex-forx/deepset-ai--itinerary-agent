@@ -1,0 +1,11 @@
+{
+  "org": "deepset-ai",
+  "repo": "itinerary-agent",
+  "versions": [
+    {
+      "commit": "c65f7e455ca26b40f24e159ce6a1619a84c6a5b2",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:06:29.961645+00:00"
+    }
+  ]
+}
