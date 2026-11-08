@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "deepset-ai",
+  "repo": "itinerary-agent",
+  "versions": [
+    {
+      "commit": "c65f7e455ca26b40f24e159ce6a1619a84c6a5b2",
+      "parsed_at": "2026-11-08T06:03:39.485483+00:00",
+      "filetree": "filetree/c65f7e455ca26b40f24e159ce6a1619a84c6a5b2.nq.gz",
+      "blobs": [
+        "blob/1b4e41af037bef5ac29fc779338d76d9ea887fd4.nq.gz",
+        "blob/2984745aa36c9d863b85e16d9436c514e6b5cb9e.nq.gz",
+        "blob/3a276bc23becb647d8c6f35905dcbcb45bd62d27.nq.gz",
+        "blob/b2c1aa20f411cf891864d9e3bdfa67a294399f05.nq.gz",
+        "blob/a2b331b9d9ae25dab34ec702354ea062f4cd4ad0.nq.gz",
+        "blob/c33499b6eff8be581989be7146827a74cda635ec.nq.gz",
+        "blob/204d404cd04352963f00b58dc8f4adf1eefe72f0.nq.gz",
+        "blob/79d44dcba870b6ef9dbf8d46e08156931edfae7d.nq.gz",
+        "blob/bdac3399b8842778485b6ced9ecbaa8c8fc2b866.nq.gz",
+        "blob/78a6acf40883abe97538dda669a322497196c0df.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
